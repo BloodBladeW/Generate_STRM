@@ -1,6 +1,6 @@
 # Generate_STRM
 
-a sample STRM file generate tool
+A sample STRM file generate tool
 
 ## How to use
 
